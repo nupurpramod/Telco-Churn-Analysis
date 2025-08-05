@@ -1,16 +1,16 @@
-# 📊 Telco Churn Analysis Dashboard
+#  Telco Churn Analysis Dashboard
 
 This project analyzes customer churn patterns in a telecom company using Power BI. It provides visual insights into customer behavior, churn risk factors, and service usage to support data-driven retention strategies.
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](https://github.com/nupurpramod/Telco-Churn-Analysis/blob/main/Churn%20Dashboard.png?raw=true)
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - Power BI Desktop
 - Microsoft Excel
@@ -25,7 +25,7 @@ This project analyzes customer churn patterns in a telecom company using Power B
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - Monthly churn trend analysis
 - Demographic segmentation of customers
@@ -43,16 +43,16 @@ This project analyzes customer churn patterns in a telecom company using Power B
 
 ---
 
-## 🔗 Dataset Source
+##  Dataset Source
 
 - [IBM Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 ---
 
-## 🙌 Let's Connect
+##  Let's Connect
 
 If you like this project or want to collaborate:
 
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+-  Email: your.email@example.com
+-  [LinkedIn](https://www.linkedin.com/in/yourprofile)
+-  [Portfolio](https://your-portfolio-link.com)
