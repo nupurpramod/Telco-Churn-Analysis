@@ -1,49 +1,58 @@
-# Telco-Churn-Analysis
-Churn prediction and customer segmentation using Power BI and Excel.
+# 📊 Telco Churn Analysis Dashboard
 
-## 🧠 Objective
-This project analyzes customer churn data from a telecom company using Power BI. The goal is to identify churn drivers and visualize KPIs for better retention strategies.
+This project analyzes customer churn patterns in a telecom company using Power BI. It provides visual insights into customer behavior, churn risk factors, and service usage to support data-driven retention strategies.
 
 ---
 
-## 📂 Tools Used
-- Power BI
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](https://github.com/nupurpramod/Telco-Churn-Analysis/blob/main/Churn%20Dashboard.png?raw=true)
+
+---
+
+## 🧰 Tools Used
+
+- Power BI Desktop
 - Microsoft Excel
 - GitHub (for version control & showcase)
 
 ---
 
-## 🖼️ Dashboard Preview
-[Include screenshot here – you can upload image and copy the link]
+## 📁 Files Included
+
+- [📥 TelcoChurn_Dashboard.pbix (Power BI report)](https://github.com/nupurpramod/Telco-Churn-Analysis/blob/main/TelcoChurn_Dashboard.pbix)
+- [📊 Telco_churn.csv.xlsx (Cleaned dataset)](https://github.com/nupurpramod/Telco-Churn-Analysis/blob/main/Telco_churn.csv.xlsx)
 
 ---
 
 ## 📌 Key Features
-- Monthly churn trends
-- Customer demographics breakdown
-- Top churn reasons
-- Filters by region, tenure, and service type
+
+- Monthly churn trend analysis
+- Demographic segmentation of customers
+- Insights by contract type, payment method, and tenure
+- Interactive filters for gender, seniority, service type, etc.
 
 ---
 
-## 📁 Files Included
-- `Churn_Analysis_Report.pbix` – Power BI report file
-- `Churn_Data.xlsx` – Cleaned dataset
-- `README.md` – Project documentation
+## 🔍 Key Insights
+
+- Customers on **month-to-month contracts** have the highest churn rate.
+- **Fiber optic** internet users are more likely to churn.
+- Customers with **tenure less than 1 year** are at high churn risk.
+- Electronic check payment correlates with higher churn.
 
 ---
 
-## ✅ Outcomes / Insights
-- Churn rate is highest in customers with month-to-month contracts.
-- Customers using fiber optic internet churn more.
-- Tenure < 1 year has highest risk of churn.
+## 🔗 Dataset Source
+
+- [IBM Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 ---
 
-## 🔗 Resources
-- [Dataset Source](Kaggle)
----
+## 🙌 Let's Connect
 
-## 🤝 Let's Connect!
-If you found this helpful, feel free to connect:
-[www.linkedin.com/in/nupur-pramod](#) | [nupurkasekar21@gmail.com](#)
+If you like this project or want to collaborate:
+
+- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
