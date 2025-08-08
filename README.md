@@ -55,4 +55,4 @@ If you like this project or want to collaborate:
 
 -  Email: nupurkasekar21@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/nupur-pramod)
--  [Portfolio](https://nupur-pramod-link.com)
+-  [Portfolio](https://nupurpramod.com)
