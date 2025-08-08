@@ -54,5 +54,5 @@ This project analyzes customer churn patterns in a telecom company using Power B
 If you like this project or want to collaborate:
 
 -  Email: nupurkasekar21@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/nupurpramod)
+-  [LinkedIn](https://www.linkedin.com/in/nupur-pramod)
 -  [Portfolio](https://nupur-pramod-link.com)
